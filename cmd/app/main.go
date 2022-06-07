@@ -1,10 +1,9 @@
 package main
 
 import (
+	"go-clean/config"
+	"go-clean/internal/app"
 	"log"
-
-	"github.com/evrone/go-clean-template/config"
-	"github.com/evrone/go-clean-template/internal/app"
 )
 
 func main() {
