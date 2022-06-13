@@ -10,7 +10,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.15.2
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
-	github.com/ilyakaznacheev/cleanenv v1.2.6
+	github.com/ilyakaznacheev/cleanenv v1.3.0
 	github.com/jackc/pgx/v4 v4.16.1
 	github.com/prometheus/client_golang v1.12.2
 	github.com/rs/zerolog v1.26.1
@@ -22,7 +22,7 @@ require (
 )
 
 require (
-	github.com/BurntSushi/toml v0.4.1 // indirect
+	github.com/BurntSushi/toml v1.1.0 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
